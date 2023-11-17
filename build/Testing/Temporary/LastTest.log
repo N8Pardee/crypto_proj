@@ -1,0 +1,316 @@
+Start testing: Nov 17 03:40 EST
+----------------------------------------------------------
+1/13 Testing: HexToBytesTests.TryCatch
+1/13 Test: HexToBytesTests.TryCatch
+Command: "/home/nate/Documents/School/crypto_proj/build/crypto_tests" "--gtest_filter=HexToBytesTests.TryCatch" "--gtest_also_run_disabled_tests"
+Directory: /home/nate/Documents/School/crypto_proj/build
+"HexToBytesTests.TryCatch" start time: Nov 17 03:40 EST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = HexToBytesTests.TryCatch
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HexToBytesTests
+[ RUN      ] HexToBytesTests.TryCatch
+Must be an even amount of hex digits
+[       OK ] HexToBytesTests.TryCatch (1 ms)
+[----------] 1 test from HexToBytesTests (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HexToBytesTests.TryCatch" end time: Nov 17 03:40 EST
+"HexToBytesTests.TryCatch" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/13 Testing: HexToBytesTests.SwitchCase
+2/13 Test: HexToBytesTests.SwitchCase
+Command: "/home/nate/Documents/School/crypto_proj/build/crypto_tests" "--gtest_filter=HexToBytesTests.SwitchCase" "--gtest_also_run_disabled_tests"
+Directory: /home/nate/Documents/School/crypto_proj/build
+"HexToBytesTests.SwitchCase" start time: Nov 17 03:40 EST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = HexToBytesTests.SwitchCase
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HexToBytesTests
+[ RUN      ] HexToBytesTests.SwitchCase
+Must be an even amount of hex digits
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"HexToBytesTests.SwitchCase" end time: Nov 17 03:40 EST
+"HexToBytesTests.SwitchCase" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/13 Testing: HexToB64Tests.ProperReturn
+3/13 Test: HexToB64Tests.ProperReturn
+Command: "/home/nate/Documents/School/crypto_proj/build/crypto_tests" "--gtest_filter=HexToB64Tests.ProperReturn" "--gtest_also_run_disabled_tests"
+Directory: /home/nate/Documents/School/crypto_proj/build
+"HexToB64Tests.ProperReturn" start time: Nov 17 03:40 EST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = HexToB64Tests.ProperReturn
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HexToB64Tests
+[ RUN      ] HexToB64Tests.ProperReturn
+[       OK ] HexToB64Tests.ProperReturn (0 ms)
+[----------] 1 test from HexToB64Tests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"HexToB64Tests.ProperReturn" end time: Nov 17 03:40 EST
+"HexToB64Tests.ProperReturn" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/13 Testing: CryptoProblems.Problem1
+4/13 Test: CryptoProblems.Problem1
+Command: "/home/nate/Documents/School/crypto_proj/build/crypto_tests" "--gtest_filter=CryptoProblems.Problem1" "--gtest_also_run_disabled_tests"
+Directory: /home/nate/Documents/School/crypto_proj/build
+"CryptoProblems.Problem1" start time: Nov 17 03:40 EST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = CryptoProblems.Problem1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CryptoProblems
+[ RUN      ] CryptoProblems.Problem1
+[       OK ] CryptoProblems.Problem1 (0 ms)
+[----------] 1 test from CryptoProblems (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CryptoProblems.Problem1" end time: Nov 17 03:40 EST
+"CryptoProblems.Problem1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/13 Testing: CryptoProblems.Problem2
+5/13 Test: CryptoProblems.Problem2
+Command: "/home/nate/Documents/School/crypto_proj/build/crypto_tests" "--gtest_filter=CryptoProblems.Problem2" "--gtest_also_run_disabled_tests"
+Directory: /home/nate/Documents/School/crypto_proj/build
+"CryptoProblems.Problem2" start time: Nov 17 03:40 EST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = CryptoProblems.Problem2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CryptoProblems
+[ RUN      ] CryptoProblems.Problem2
+[       OK ] CryptoProblems.Problem2 (0 ms)
+[----------] 1 test from CryptoProblems (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"CryptoProblems.Problem2" end time: Nov 17 03:40 EST
+"CryptoProblems.Problem2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/13 Testing: CryptoProblems.Problem3
+6/13 Test: CryptoProblems.Problem3
+Command: "/home/nate/Documents/School/crypto_proj/build/crypto_tests" "--gtest_filter=CryptoProblems.Problem3" "--gtest_also_run_disabled_tests"
+Directory: /home/nate/Documents/School/crypto_proj/build
+"CryptoProblems.Problem3" start time: Nov 17 03:40 EST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = CryptoProblems.Problem3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CryptoProblems
+[ RUN      ] CryptoProblems.Problem3
+[       OK ] CryptoProblems.Problem3 (23 ms)
+[----------] 1 test from CryptoProblems (23 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (23 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"CryptoProblems.Problem3" end time: Nov 17 03:40 EST
+"CryptoProblems.Problem3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/13 Testing: CryptoProblems
+7/13 Test: CryptoProblems
+Command: "/home/nate/Documents/School/crypto_proj/build/crypto_tests"
+Directory: /home/nate/Documents/School/crypto_proj/build
+"CryptoProblems" start time: Nov 17 03:40 EST
+Output:
+----------------------------------------------------------
+[==========] Running 6 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 2 tests from HexToBytesTests
+[ RUN      ] HexToBytesTests.TryCatch
+Must be an even amount of hex digits
+[       OK ] HexToBytesTests.TryCatch (2 ms)
+[ RUN      ] HexToBytesTests.SwitchCase
+Must be an even amount of hex digits
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CryptoProblems" end time: Nov 17 03:40 EST
+"CryptoProblems" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/13 Testing: HexToBytesTests
+8/13 Test: HexToBytesTests
+Command: "/home/nate/Documents/School/crypto_proj/build/crypto_tests"
+Directory: /home/nate/Documents/School/crypto_proj/build
+"HexToBytesTests" start time: Nov 17 03:40 EST
+Output:
+----------------------------------------------------------
+[==========] Running 6 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 2 tests from HexToBytesTests
+[ RUN      ] HexToBytesTests.TryCatch
+Must be an even amount of hex digits
+[       OK ] HexToBytesTests.TryCatch (2 ms)
+[ RUN      ] HexToBytesTests.SwitchCase
+Must be an even amount of hex digits
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HexToBytesTests" end time: Nov 17 03:40 EST
+"HexToBytesTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/13 Testing: BinaryToHexTests
+9/13 Test: BinaryToHexTests
+Command: "/home/nate/Documents/School/crypto_proj/build/crypto_tests"
+Directory: /home/nate/Documents/School/crypto_proj/build
+"BinaryToHexTests" start time: Nov 17 03:40 EST
+Output:
+----------------------------------------------------------
+[==========] Running 6 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 2 tests from HexToBytesTests
+[ RUN      ] HexToBytesTests.TryCatch
+Must be an even amount of hex digits
+[       OK ] HexToBytesTests.TryCatch (1 ms)
+[ RUN      ] HexToBytesTests.SwitchCase
+Must be an even amount of hex digits
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BinaryToHexTests" end time: Nov 17 03:40 EST
+"BinaryToHexTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/13 Testing: FixedXorTests
+10/13 Test: FixedXorTests
+Command: "/home/nate/Documents/School/crypto_proj/build/crypto_tests"
+Directory: /home/nate/Documents/School/crypto_proj/build
+"FixedXorTests" start time: Nov 17 03:40 EST
+Output:
+----------------------------------------------------------
+[==========] Running 6 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 2 tests from HexToBytesTests
+[ RUN      ] HexToBytesTests.TryCatch
+Must be an even amount of hex digits
+[       OK ] HexToBytesTests.TryCatch (1 ms)
+[ RUN      ] HexToBytesTests.SwitchCase
+Must be an even amount of hex digits
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FixedXorTests" end time: Nov 17 03:40 EST
+"FixedXorTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/13 Testing: B64DecoderTests
+11/13 Test: B64DecoderTests
+Command: "/home/nate/Documents/School/crypto_proj/build/crypto_tests"
+Directory: /home/nate/Documents/School/crypto_proj/build
+"B64DecoderTests" start time: Nov 17 03:40 EST
+Output:
+----------------------------------------------------------
+[==========] Running 6 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 2 tests from HexToBytesTests
+[ RUN      ] HexToBytesTests.TryCatch
+Must be an even amount of hex digits
+[       OK ] HexToBytesTests.TryCatch (2 ms)
+[ RUN      ] HexToBytesTests.SwitchCase
+Must be an even amount of hex digits
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"B64DecoderTests" end time: Nov 17 03:40 EST
+"B64DecoderTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/13 Testing: CharToByteTests
+12/13 Test: CharToByteTests
+Command: "/home/nate/Documents/School/crypto_proj/build/crypto_tests"
+Directory: /home/nate/Documents/School/crypto_proj/build
+"CharToByteTests" start time: Nov 17 03:40 EST
+Output:
+----------------------------------------------------------
+[==========] Running 6 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 2 tests from HexToBytesTests
+[ RUN      ] HexToBytesTests.TryCatch
+Must be an even amount of hex digits
+[       OK ] HexToBytesTests.TryCatch (3 ms)
+[ RUN      ] HexToBytesTests.SwitchCase
+Must be an even amount of hex digits
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CharToByteTests" end time: Nov 17 03:40 EST
+"CharToByteTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/13 Testing: scoreEnglishTextTests
+13/13 Test: scoreEnglishTextTests
+Command: "/home/nate/Documents/School/crypto_proj/build/crypto_tests"
+Directory: /home/nate/Documents/School/crypto_proj/build
+"scoreEnglishTextTests" start time: Nov 17 03:40 EST
+Output:
+----------------------------------------------------------
+[==========] Running 6 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 2 tests from HexToBytesTests
+[ RUN      ] HexToBytesTests.TryCatch
+Must be an even amount of hex digits
+[       OK ] HexToBytesTests.TryCatch (2 ms)
+[ RUN      ] HexToBytesTests.SwitchCase
+Must be an even amount of hex digits
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"scoreEnglishTextTests" end time: Nov 17 03:40 EST
+"scoreEnglishTextTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 17 03:40 EST

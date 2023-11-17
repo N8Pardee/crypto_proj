@@ -1,0 +1,15 @@
+crypto_tests_NOT_BUILT 0 0
+CryptoProblems 4 0.00203145
+HexToBytesTests 4 0.00223925
+HexToBytesTests.TryCatch 5 0.00114368
+HexToBytesTests.SwitchCase 5 0.000868954
+HexToB64Tests.ProperReturn 5 0.00087376
+CryptoProblems.Problem1 5 0.0010551
+CryptoProblems.Problem2 5 0.00085311
+CryptoProblems.Problem3 5 0.00584591
+BinaryToHexTests 3 0.00197104
+FixedXorTests 3 0.0017949
+B64DecoderTests 3 0.00256892
+CharToByteTests 3 0.00263433
+scoreEnglishTextTests 1 0.00958146
+---
